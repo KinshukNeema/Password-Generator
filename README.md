@@ -1,7 +1,7 @@
 # Password-Generator
 Simple front-end app designed with the purpose of generating random password for users as per the parameters defined by them 
 
-(like password length, includes uppercase, lowercase, numbers). 
+(like password length, includes uppercase, lowercase, numbers and symbols). 
 
 Also provide option of copying the password to clipboard. 
 
